@@ -3,6 +3,12 @@
 All notable changes in this project will be documented in this file.
 
 
+## [2.0.1](https://github.com/omnixys/analytics-rule-engine/compare/v2.0.0...v2.0.1) (2026-09-02)
+
+### Deps
+
+* **Deps:** update omnixys deps ([](https://github.com/omnixys/analytics-rule-engine/commit/e01566bdeb5047a95a18fd73fa13acd918936658))
+
 ## [2.0.0](https://github.com/omnixys/analytics-rule-engine/compare/v1.0.0...v2.0.0) (2026-09-02)
 
 ### Agent
