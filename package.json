@@ -4,6 +4,7 @@
   "description": "Deterministic JSON AST evaluator for the Omnixys Analytics & Insights Platform",
   "type": "module",
   "main": "./dist/index.js",
+  "packageManager": "pnpm@11.24.0",
   "types": "./dist/index.d.ts",
   "exports": {
     ".": {
@@ -33,7 +34,7 @@
     "typescript": "^5.9.3"
   },
   "engines": {
-    "node": ">=22"
+    "node": ">=26.8.1 <27"
   },
   "license": "GPL-3.0-or-later",
   "publishConfig": {

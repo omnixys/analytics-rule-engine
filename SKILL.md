@@ -9,7 +9,7 @@
 
 - Kind: Shared Package
 - Package: `@omnixys/analytics-rule-engine` (version: 1.0.0)
-- Runtime: Node >=20 (pnpm >=10.33.0)
+- Runtime: Node >=26.8.1 (pnpm >=11.24.0)
 - Description: Omnixys analytics rule engine for TypeScript.
 - Architecture: src/ rule engine
 - Database: n/a; Migrations: n/a
